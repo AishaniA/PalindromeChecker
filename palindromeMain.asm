@@ -1,5 +1,4 @@
-#	Written by Aishani Arunganesh for CS2340.005, assignment 4, starting March 11, 2024.
-#    	NetID: axa220346
+#	Written by Aishani Arunganesh, starting March 11, 2024.
 #	Description: This program allows for users to enter a string of characters to test whether the entered input is a 
 #	palindrome or not. The program ignores punctuation, case, and any character which is not a number or a letter. In this 
 #	file, the program takes in the user's input and then makes calls to the subroutine file in order to remove special 
