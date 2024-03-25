@@ -1,4 +1,4 @@
-#	Description: This file aids the CS2340-Asg4.asm file by providing subroutines for the file. This file has 3 different 
+#	Description: This file aids the palindromeMain.asm file by providing subroutines for the file. This file has 3 different 
 #	main programs which are: makeAlphanumeric, convertCase, and isPalindrome. makeAlphanumeric is a series of functions which
 #	make the user's input into a string with no non-alphanumeric characters. convertCase converts the string into the same
 #	string but with all uppercase characters. isPalindrome recursively checks whether the input is a palindrome or not and
